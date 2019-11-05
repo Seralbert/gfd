@@ -1,0 +1,17 @@
+body {
+    background-attachment: fixed;
+    background-image: url(../img/vine.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.fixspace {
+    padding: 0;
+    margin: 0;
+    background-color: #0074b5;
+}
+.navbar{
+    padding: 0 !important;
+}
